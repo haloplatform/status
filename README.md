@@ -9,3 +9,6 @@ To get started:
 1. Click on waffle link above.
 2. View items
 3. (Optional) Add an item as feedback or bug and it will get addressed.
+
+
+How to add an issue/feedback/but/idea report. https://github.com/haloplatform/status/issues/13
