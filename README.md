@@ -12,3 +12,8 @@ To get started:
 
 
 How to add an issue/feedback/but/idea report. https://github.com/haloplatform/status/issues/13
+
+
+# For live status of the entire platform (uptime/operationally)
+
+See the live status page at: https://status.haloplatform.tech/
